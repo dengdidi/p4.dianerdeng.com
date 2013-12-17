@@ -1,0 +1,30 @@
+2013-12-14 20:05:19 - INFO --> -------------------------- 
+2013-12-14 20:05:19 - INFO --> Controller/Method: posts/index 
+2013-12-14 20:05:19 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-14 20:05:19 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-14 20:05:19 - INFO --> CC:  
+2013-12-14 20:05:19 - INFO --> BCC:  
+2013-12-14 20:05:19 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-14 20:05:19 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+                posts.content,
+                posts.created,
+                posts.user_id AS post_user_id,
+                users_users.user_id AS follower_id,
+                users.first_name,
+                users.last_name
+            FROM posts
+            INNER JOIN  
+2013-12-14 20:05:26 - INFO --> -------------------------- 
+2013-12-14 20:05:26 - INFO --> Controller/Method: posts/users 
+2013-12-14 20:05:26 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-14 20:05:26 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-14 20:05:26 - INFO --> CC:  
+2013-12-14 20:05:26 - INFO --> BCC:  
+2013-12-14 20:05:26 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-14 20:05:26 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+            FROM users_users
+            WHERE user_id = 1 Table 'p4_dianerdeng_com.users_users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br>1 = SELECT *
+            FROM us 

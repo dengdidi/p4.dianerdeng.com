@@ -1,0 +1,13 @@
+2013-12-13 21:43:29 - INFO --> -------------------------- 
+2013-12-13 21:43:30 - INFO --> Controller/Method: users/p_login 
+2013-12-13 21:43:33 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-13 21:43:33 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-13 21:43:33 - INFO --> CC:  
+2013-12-13 21:43:33 - INFO --> BCC:  
+2013-12-13 21:43:33 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-13 21:43:33 - INFO --> Body: <h2>SQL Error</h2> SELECT token 
+            FROM users 
+            WHERE email = 'test@mctest.com' 
+            AND password = 'a94a8fe5ccb19ba61c4c0873d391e987982fbbd3' No database selected<h2>Query History</h2>0 = SELECT token 
+            FROM users 
+            WHERE email = 'test@mctest.com'  

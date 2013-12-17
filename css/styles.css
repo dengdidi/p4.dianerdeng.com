@@ -1,0 +1,205 @@
+/* Believr Style Sheet */
+
+html, body, h1, h2, h3, h4, h5, h6, p, border{
+	margin:;
+	padding:;
+}
+html{
+	background-color:#BDEBFF;
+}
+body{
+	height:130%;
+	width:800px;
+	margin:auto;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+	font-size:14px;
+	color:#363636;.
+	line-height:25px;
+	background-color:#FFFFFF;
+}
+
+/* Headings */
+
+h1{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#FF8FB4;
+	font-weight: normal;
+	padding-top:5px;
+	font-size: 40px;
+}
+
+
+/* page headers for SEO*/
+h2{	text-align:center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#4988FC;
+	font-weight: normal;
+	font-size:24px;
+	margin:0px;
+}
+h3{	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#FF8FB4;
+	font-weight: bold;
+	font-size:18px;
+	margin:0px;
+}
+h4{	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#FF8FB4;
+	font-weight: normal;
+	padding-top:5px;
+	font-size:16px;
+	margin:0px;
+}
+h5{	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#FF8FB4;
+	font-weight: normal;
+	padding-top:5px;
+	font-size:14px;
+}
+h6{	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	color:#BDBDBD;
+	font-weight: normal;
+	padding-top:5px;
+	font-size:10px;
+}
+
+/* Images */
+a img{
+	border:0;
+}	
+
+
+/* Navigation Bar*/
+#menu{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: thick;
+	height:30px;
+	color:#1E6900;
+	font-size:18px;
+	text-align:center;
+	background-color:#B4FF96;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+
+}
+
+/*
+#menu ul{
+	color:#1E6900;
+	list-style-type:none;
+	font-size:20px;
+}
+#menu li {
+	color:#1E6900;
+	display:inline;
+	padding-right:10px;
+}
+#menu a:link, #nav a:visited {
+	color:#1E6900;
+	text-decoration:none;
+}
+#menu a:active, #nav a:hover {
+	color:#1E6900;
+	text-decoration: none;
+}
+*/
+
+/* Content */
+#content{
+	text-align:center;
+	padding-left:0px;
+	padding-right:0px;
+}
+#content p{
+	font-size:12px;
+	color:#000000;
+	text-align: center;
+	margin:0px;
+}
+
+#article{
+	height:80px;
+	color:#ffffff;
+	text-align:center;
+	background-color:#4F4F4F;
+	border-color: rgb( 255, 19, 96);
+	border-style: dashed;
+	padding-top:5px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-bottom: 5px;
+}
+#userslist{
+	height:40px;
+	color:#ffffff;
+	text-align:center;
+	background-color:#4F4F4F;
+	border-color: rgb( 0, 230, 132);
+	padding-top:5px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-bottom: 5px;
+}
+
+
+/* Links */
+a:link, a:visited {
+	color:#1E6900;
+	text-decoration:none;
+}
+a:active, a:hover{
+	color:#1E6900;
+	text-decoration:none;
+}
+
+/* Footer */
+#footer{
+	height:20px;
+	font-size:12px;
+	color:#1E6900;
+	text-align: center;
+	background-color:#B4FF96;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-top:20px;
+}
+#footer a:link, #footer a:visited {
+	color:#ffffff;
+	text-decoration:underline;
+}
+#footer a:active, #footer a:hover{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+#error{
+	font-size:20px;
+	color:#D90016;
+	text-align: center;
+	margin:0px;
+}
+
+/* Common Classes */
+.floatLeft{
+	float:left;
+}
+.floatRight{
+	float:right;
+}
+.textLeft{
+	text-align:left;
+}
+.textRight{
+	text-align:right;
+}
+.textCenter{
+	text-align:center;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style:italic;
+}

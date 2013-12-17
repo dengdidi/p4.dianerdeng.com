@@ -1,0 +1,46 @@
+2013-12-16 20:29:13 - INFO --> -------------------------- 
+2013-12-16 20:29:13 - INFO --> Controller/Method: index/index 
+2013-12-16 20:29:14 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-16 20:29:14 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-16 20:29:14 - INFO --> CC:  
+2013-12-16 20:29:14 - INFO --> BCC:  
+2013-12-16 20:29:14 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-16 20:29:14 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1 No database selected<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br><h2>SERVER</h2><pre>Array
+(
+     
+2013-12-16 20:29:33 - INFO --> -------------------------- 
+2013-12-16 20:29:33 - INFO --> Controller/Method: index/index 
+2013-12-16 20:29:33 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-16 20:29:33 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-16 20:29:33 - INFO --> CC:  
+2013-12-16 20:29:33 - INFO --> BCC:  
+2013-12-16 20:29:33 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-16 20:29:33 - INFO --> Body: <h2>SQL Error</h2> SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1 No database selected<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br><h2>SERVER</h2><pre>Array
+(
+     
+2013-12-16 20:29:57 - INFO --> -------------------------- 
+2013-12-16 20:29:57 - INFO --> Controller/Method: posts/users 
+2013-12-16 20:29:57 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-16 20:29:57 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-16 20:29:57 - INFO --> CC:  
+2013-12-16 20:29:57 - INFO --> BCC:  
+2013-12-16 20:29:57 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-16 20:29:57 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+            FROM users_users
+            WHERE user_id = 1 Table 'dianerde_p4_dianerdeng_com.users_users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br>1 = SELECT *
+           

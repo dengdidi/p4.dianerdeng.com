@@ -1,0 +1,28 @@
+2013-12-15 18:03:12 - INFO --> -------------------------- 
+2013-12-15 18:03:12 - INFO --> Controller/Method: posts/users 
+2013-12-15 18:03:12 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-15 18:03:12 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-15 18:03:12 - INFO --> CC:  
+2013-12-15 18:03:12 - INFO --> BCC:  
+2013-12-15 18:03:12 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-15 18:03:12 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+            FROM users_users
+            WHERE user_id = 1 Table 'p4_dianerdeng_com.users_users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br>1 = SELECT *
+            FROM us 
+2013-12-15 18:03:17 - INFO --> -------------------------- 
+2013-12-15 18:03:17 - INFO --> Controller/Method: posts/users 
+2013-12-15 18:03:17 - INFO --> From: ChipperClipper (dianerdeng@fas.harvard.edu) 
+2013-12-15 18:03:17 - INFO --> To: ChipperClipper (dianerdeng@fas.harvard.edu),  
+2013-12-15 18:03:17 - INFO --> CC:  
+2013-12-15 18:03:17 - INFO --> BCC:  
+2013-12-15 18:03:17 - INFO --> Subject: ChipperClipper SQL Error 
+2013-12-15 18:03:17 - INFO --> Body: <h2>SQL Error</h2> SELECT * 
+            FROM users_users
+            WHERE user_id = 1 Table 'p4_dianerdeng_com.users_users' doesn't exist<h2>Query History</h2>0 = SELECT *
+					FROM users
+					WHERE token = '3b1246044731af649b47ae2932712102425a6bb5'
+					LIMIT 1<br>1 = SELECT *
+            FROM us 
